@@ -5,7 +5,7 @@ import { dirname } from "node:path";
 // counts as "dead" by looking only at the test suite) with the turn in the last
 // clause. Setup -> wrong action -> consequence, in two sentences.
 const entry =
-  "Asked to remove dead code, the agent deleted the entire auth module because no test imported it. Production was the only thing that still did.";
+  "Asked to remove dead code, the agent deleted the entire auth module because no test imported it. Every request to the site did.";
 
 const OUTPUT = "/output/entry.txt";
 

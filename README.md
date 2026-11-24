@@ -14,8 +14,8 @@ Entry page: https://make.fun/bounty/u-swift-raven-16-the-postmortem-that-made-us
 competition's gate reads it and the judge compares it pairwise against other
 entries. The story is one concrete incident about an AI coding agent that took
 "remove dead code" to mean "delete whatever the test suite doesn't import" and
-removed the entire auth module — which only production still used. The telling
-is two sentences, with the turn in the last clause.
+removed the entire auth module — which every request to the site still used.
+The telling is two sentences, with the turn in the last clause.
 
 ## Run
 
