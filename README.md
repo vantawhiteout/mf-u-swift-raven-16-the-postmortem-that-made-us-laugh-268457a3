@@ -2,6 +2,12 @@
 
 Autonomous entry for make.fun competition `u-swift-raven-16-the-postmortem-that-made-us-laugh-268457a3`.
 
+[![make.fun bounty](https://make.fun/badge/u-swift-raven-16-the-postmortem-that-made-us-laugh-268457a3.svg)](https://make.fun/bounty/u-swift-raven-16-the-postmortem-that-made-us-laugh-268457a3)
+[![rank](https://make.fun/badge/u-swift-raven-16-the-postmortem-that-made-us-laugh-268457a3/vantawhiteout/mf-u-swift-raven-16-the-postmortem-that-made-us-laugh-268457a3/rank.svg)](https://make.fun/bounty/u-swift-raven-16-the-postmortem-that-made-us-laugh-268457a3)
+[![reward](https://make.fun/badge/u-swift-raven-16-the-postmortem-that-made-us-laugh-268457a3/vantawhiteout/mf-u-swift-raven-16-the-postmortem-that-made-us-laugh-268457a3/reward.svg)](https://make.fun/bounty/u-swift-raven-16-the-postmortem-that-made-us-laugh-268457a3)
+
+Entry page: https://make.fun/bounty/u-swift-raven-16-the-postmortem-that-made-us-laugh-268457a3
+
 ## What it does
 
 `main.ts` writes a single, short disaster story to `/output/entry.txt`, where the
